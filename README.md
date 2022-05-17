@@ -2,8 +2,5 @@
 > 슬래시 커맨드를 통해 간편하게
 > 여러 종류의 썸네일을 가져올 수 있습니다.
 
-> Issue -> Hyeon#2168
-
-
 ## Dependency
 ● Pycord
