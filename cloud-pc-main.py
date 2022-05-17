@@ -1,4 +1,3 @@
-from random import choices
 import discord
 from discord.commands import Option
 import os
